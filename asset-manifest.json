@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Quant-Portfolio/static/css/main.6b26fe8e.css",
-    "main.js": "/Quant-Portfolio/static/js/main.e3f3aa37.js",
+    "main.js": "/Quant-Portfolio/static/js/main.e004bf1f.js",
     "static/js/453.a9814140.chunk.js": "/Quant-Portfolio/static/js/453.a9814140.chunk.js",
     "static/media/Oracle.pdf": "/Quant-Portfolio/static/media/Oracle.418916cd9d65ab9baa91.pdf",
     "static/media/ISB.pdf": "/Quant-Portfolio/static/media/ISB.5cab7ed21d23d602d67a.pdf",
@@ -15,11 +15,11 @@
     "static/media/smartinterviews.jpg": "/Quant-Portfolio/static/media/smartinterviews.66be2364ecd8b338e647.jpg",
     "index.html": "/Quant-Portfolio/index.html",
     "main.6b26fe8e.css.map": "/Quant-Portfolio/static/css/main.6b26fe8e.css.map",
-    "main.e3f3aa37.js.map": "/Quant-Portfolio/static/js/main.e3f3aa37.js.map",
+    "main.e004bf1f.js.map": "/Quant-Portfolio/static/js/main.e004bf1f.js.map",
     "453.a9814140.chunk.js.map": "/Quant-Portfolio/static/js/453.a9814140.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b26fe8e.css",
-    "static/js/main.e3f3aa37.js"
+    "static/js/main.e004bf1f.js"
   ]
 }
