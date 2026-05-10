@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/Quant-Portfolio/static/css/main.6b26fe8e.css",
-    "main.js": "/Quant-Portfolio/static/js/main.e004bf1f.js",
+    "main.css": "/Quant-Portfolio/static/css/main.2ad61a9a.css",
+    "main.js": "/Quant-Portfolio/static/js/main.350836cb.js",
     "static/js/453.a9814140.chunk.js": "/Quant-Portfolio/static/js/453.a9814140.chunk.js",
     "static/media/Oracle.pdf": "/Quant-Portfolio/static/media/Oracle.418916cd9d65ab9baa91.pdf",
     "static/media/ISB.pdf": "/Quant-Portfolio/static/media/ISB.5cab7ed21d23d602d67a.pdf",
+    "static/media/usf.png": "/Quant-Portfolio/static/media/usf.6383241a1fc5d82dbdd5.png",
     "static/media/Astronomy.pdf": "/Quant-Portfolio/static/media/Astronomy.ce87a1c8760083bc3f13.pdf",
     "static/media/Tensorflow.pdf": "/Quant-Portfolio/static/media/Tensorflow.9641aaa6a82000cbee07.pdf",
     "static/media/resume.pdf": "/Quant-Portfolio/static/media/resume.f76fe31eb70b33ffad7a.pdf",
+    "static/media/WSQ Nachiketh.pdf": "/Quant-Portfolio/static/media/WSQ Nachiketh.8656e14f0b3de51890c1.pdf",
     "static/media/Ibm.pdf": "/Quant-Portfolio/static/media/Ibm.9a6d9317f252a837aac6.pdf",
     "static/media/Python.pdf": "/Quant-Portfolio/static/media/Python.b5c05143252a7ccdfce2.pdf",
     "static/media/AWS.pdf": "/Quant-Portfolio/static/media/AWS.a5c09ec1220b79f47d6d.pdf",
     "static/media/nachikethjoshi.jpg": "/Quant-Portfolio/static/media/nachikethjoshi.eb4eb882cdd59ed0a184.jpg",
     "static/media/smartinterviews.jpg": "/Quant-Portfolio/static/media/smartinterviews.66be2364ecd8b338e647.jpg",
+    "static/media/bvrit.jpg": "/Quant-Portfolio/static/media/bvrit.eaf6d476ed9f6572a65a.jpg",
     "index.html": "/Quant-Portfolio/index.html",
-    "main.6b26fe8e.css.map": "/Quant-Portfolio/static/css/main.6b26fe8e.css.map",
-    "main.e004bf1f.js.map": "/Quant-Portfolio/static/js/main.e004bf1f.js.map",
+    "main.2ad61a9a.css.map": "/Quant-Portfolio/static/css/main.2ad61a9a.css.map",
+    "main.350836cb.js.map": "/Quant-Portfolio/static/js/main.350836cb.js.map",
     "453.a9814140.chunk.js.map": "/Quant-Portfolio/static/js/453.a9814140.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b26fe8e.css",
-    "static/js/main.e004bf1f.js"
+    "static/css/main.2ad61a9a.css",
+    "static/js/main.350836cb.js"
   ]
 }
