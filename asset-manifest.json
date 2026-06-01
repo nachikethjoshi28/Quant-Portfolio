@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Quant-Portfolio/static/css/main.b81ff071.css",
-    "main.js": "/Quant-Portfolio/static/js/main.de8b3f72.js",
-    "static/js/453.a9814140.chunk.js": "/Quant-Portfolio/static/js/453.a9814140.chunk.js",
-    "static/media/Oracle.pdf": "/Quant-Portfolio/static/media/Oracle.418916cd9d65ab9baa91.pdf",
-    "static/media/ISB.pdf": "/Quant-Portfolio/static/media/ISB.5cab7ed21d23d602d67a.pdf",
-    "static/media/Astronomy.pdf": "/Quant-Portfolio/static/media/Astronomy.ce87a1c8760083bc3f13.pdf",
-    "static/media/Tensorflow.pdf": "/Quant-Portfolio/static/media/Tensorflow.9641aaa6a82000cbee07.pdf",
-    "static/media/resume.pdf": "/Quant-Portfolio/static/media/resume.f76fe31eb70b33ffad7a.pdf",
-    "static/media/WSQ Nachiketh.pdf": "/Quant-Portfolio/static/media/WSQ Nachiketh.8656e14f0b3de51890c1.pdf",
-    "static/media/Ibm.pdf": "/Quant-Portfolio/static/media/Ibm.9a6d9317f252a837aac6.pdf",
-    "static/media/Python.pdf": "/Quant-Portfolio/static/media/Python.b5c05143252a7ccdfce2.pdf",
-    "static/media/AWS.pdf": "/Quant-Portfolio/static/media/AWS.a5c09ec1220b79f47d6d.pdf",
-    "index.html": "/Quant-Portfolio/index.html",
-    "main.b81ff071.css.map": "/Quant-Portfolio/static/css/main.b81ff071.css.map",
-    "main.de8b3f72.js.map": "/Quant-Portfolio/static/js/main.de8b3f72.js.map",
-    "453.a9814140.chunk.js.map": "/Quant-Portfolio/static/js/453.a9814140.chunk.js.map"
+    "main.css": "./static/css/main.b81ff071.css",
+    "main.js": "./static/js/main.43f5ce46.js",
+    "static/js/453.a9814140.chunk.js": "./static/js/453.a9814140.chunk.js",
+    "static/media/Oracle.pdf": "./static/media/Oracle.418916cd9d65ab9baa91.pdf",
+    "static/media/ISB.pdf": "./static/media/ISB.5cab7ed21d23d602d67a.pdf",
+    "static/media/Astronomy.pdf": "./static/media/Astronomy.ce87a1c8760083bc3f13.pdf",
+    "static/media/Tensorflow.pdf": "./static/media/Tensorflow.9641aaa6a82000cbee07.pdf",
+    "static/media/resume.pdf": "./static/media/resume.f76fe31eb70b33ffad7a.pdf",
+    "static/media/WSQ Nachiketh.pdf": "./static/media/WSQ Nachiketh.8656e14f0b3de51890c1.pdf",
+    "static/media/Ibm.pdf": "./static/media/Ibm.9a6d9317f252a837aac6.pdf",
+    "static/media/Python.pdf": "./static/media/Python.b5c05143252a7ccdfce2.pdf",
+    "static/media/AWS.pdf": "./static/media/AWS.a5c09ec1220b79f47d6d.pdf",
+    "index.html": "./index.html",
+    "main.b81ff071.css.map": "./static/css/main.b81ff071.css.map",
+    "main.43f5ce46.js.map": "./static/js/main.43f5ce46.js.map",
+    "453.a9814140.chunk.js.map": "./static/js/453.a9814140.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b81ff071.css",
-    "static/js/main.de8b3f72.js"
+    "static/js/main.43f5ce46.js"
   ]
 }
