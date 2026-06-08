@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.495da757.css",
-    "main.js": "./static/js/main.d4e7fcbc.js",
-    "static/js/453.a9814140.chunk.js": "./static/js/453.a9814140.chunk.js",
+    "main.css": "./static/css/main.e42a884b.css",
+    "main.js": "./static/js/main.3e43efac.js",
+    "static/js/453.d20863dc.chunk.js": "./static/js/453.d20863dc.chunk.js",
     "static/media/Oracle.pdf": "./static/media/Oracle.418916cd9d65ab9baa91.pdf",
     "static/media/ISB.pdf": "./static/media/ISB.5cab7ed21d23d602d67a.pdf",
     "static/media/Astronomy.pdf": "./static/media/Astronomy.ce87a1c8760083bc3f13.pdf",
@@ -13,12 +13,12 @@
     "static/media/Python.pdf": "./static/media/Python.b5c05143252a7ccdfce2.pdf",
     "static/media/AWS.pdf": "./static/media/AWS.a5c09ec1220b79f47d6d.pdf",
     "index.html": "./index.html",
-    "main.495da757.css.map": "./static/css/main.495da757.css.map",
-    "main.d4e7fcbc.js.map": "./static/js/main.d4e7fcbc.js.map",
-    "453.a9814140.chunk.js.map": "./static/js/453.a9814140.chunk.js.map"
+    "main.e42a884b.css.map": "./static/css/main.e42a884b.css.map",
+    "main.3e43efac.js.map": "./static/js/main.3e43efac.js.map",
+    "453.d20863dc.chunk.js.map": "./static/js/453.d20863dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.495da757.css",
-    "static/js/main.d4e7fcbc.js"
+    "static/css/main.e42a884b.css",
+    "static/js/main.3e43efac.js"
   ]
 }
