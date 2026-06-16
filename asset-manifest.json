@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "./static/css/main.1e63f05b.css",
-    "main.js": "./static/js/main.99b1caac.js",
+    "main.js": "./static/js/main.d9d669d4.js",
     "static/js/453.a9814140.chunk.js": "./static/js/453.a9814140.chunk.js",
     "static/media/Oracle.pdf": "./static/media/Oracle.418916cd9d65ab9baa91.pdf",
     "static/media/ISB.pdf": "./static/media/ISB.5cab7ed21d23d602d67a.pdf",
     "static/media/Astronomy.pdf": "./static/media/Astronomy.ce87a1c8760083bc3f13.pdf",
     "static/media/Tensorflow.pdf": "./static/media/Tensorflow.9641aaa6a82000cbee07.pdf",
-    "static/media/resume.pdf": "./static/media/resume.f76fe31eb70b33ffad7a.pdf",
     "static/media/WSQ Nachiketh.pdf": "./static/media/WSQ Nachiketh.8656e14f0b3de51890c1.pdf",
     "static/media/Ibm.pdf": "./static/media/Ibm.9a6d9317f252a837aac6.pdf",
     "static/media/Python.pdf": "./static/media/Python.b5c05143252a7ccdfce2.pdf",
     "static/media/AWS.pdf": "./static/media/AWS.a5c09ec1220b79f47d6d.pdf",
+    "static/media/resume.pdf": "./static/media/resume.1a9517d804cd0e28c481.pdf",
     "index.html": "./index.html",
     "main.1e63f05b.css.map": "./static/css/main.1e63f05b.css.map",
-    "main.99b1caac.js.map": "./static/js/main.99b1caac.js.map",
+    "main.d9d669d4.js.map": "./static/js/main.d9d669d4.js.map",
     "453.a9814140.chunk.js.map": "./static/js/453.a9814140.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e63f05b.css",
-    "static/js/main.99b1caac.js"
+    "static/js/main.d9d669d4.js"
   ]
 }
